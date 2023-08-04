@@ -1,0 +1,3 @@
+../Core/Src/ring.c:18:6:ring	10
+../Core/Src/ring.c:66:9:crcCalc	2
+../Core/Src/ring.c:100:6:HAL_UART_RxCpltCallback	2
